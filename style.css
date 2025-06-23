@@ -1,5 +1,21 @@
 body {
     background-color: black;
     color: chartreuse;
+font-family: sans-serif;
+margin: 30px;
 
+}
+
+header {
+    font-size: 30px;
+    border-bottom: double 5px paleturquoise
+padding: 30px;
+text-align: center;
+}
+h1 {
+    font-size: 30px;
+
+}
+p{
+    font-size: 20px;
 }
